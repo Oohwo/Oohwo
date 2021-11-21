@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachel!</h1>
+<h1 align="left">Hi 👋, I'm Rachel!</h1>
 
 - 🔭 I’m currently working on [hopefully-minesweeper](https://github.com/Oohwo/hopefully-minesweeper)
 
