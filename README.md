@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science @ Purdue University**
 
-- 💬 Ask me about **math**
+- 💬 Ask me about **my life**
 
 - ⚡ Fun fact **I'm probably taking an all-nighter right now**
 
