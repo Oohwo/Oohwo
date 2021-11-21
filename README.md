@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rachel!</h1>
-<h3 align="center">A student studying Data Science @ Purdue</h3>
 
 - 🔭 I’m currently working on [hopefully-minesweeper](https://github.com/Oohwo/hopefully-minesweeper)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science @ Purdue University**
 
 - 💬 Ask me about **math**
 
