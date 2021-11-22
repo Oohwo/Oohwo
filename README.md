@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [hopefully-minesweeper](https://github.com/Oohwo/hopefully-minesweeper)
 
-- 🌱 I’m currently learning **Data Science @ Purdue University**
+- 🌱 I’m currently studying **Data Science @ Purdue University**
 
 - 💬 Ask me about **my life**
 
