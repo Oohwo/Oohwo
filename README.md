@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **my life**
 
-- ⚡ Fun fact **I'm probably taking an all-nighter right now**
+- ⚡ Fun fact: **I'm probably taking an all-nighter right now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
