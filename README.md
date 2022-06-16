@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Rachel!</h1>
 
-- 🔭 I’m currently working on [hopefully-minesweeper](https://github.com/Oohwo/hopefully-minesweeper)
+- 🔭 I’m currently interning at [Zurich North America!](https://www.zurichna.com/en)
 
 - 🌱 I’m currently studying **Data Science @ Purdue University**
 
-- 💬 Ask me about **my life**
+- 💬 Ask me about **my experiences!**
 
 - ⚡ Fun fact: **I'm probably taking an all-nighter right now**
 
